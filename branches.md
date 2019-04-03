@@ -1,0 +1,1 @@
+A branch is a copy of your code that can be changed independently of the master trunk.
